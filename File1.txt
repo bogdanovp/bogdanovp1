@@ -4,6 +4,5 @@ commit test
 234
 789.
 Add line
-
 new branch line
 
